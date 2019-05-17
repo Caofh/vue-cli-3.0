@@ -1,4 +1,8 @@
-# vue-cli-3.0
+
+# 配置好的vue-cli-3.0的多页面+单页面打包的空项目
+
+## 多页面打包规则
+# 新建多页面pages/subpage/subpage.js (文件夹下的主js要和文件同名)
 
 ## Project setup
 ```
@@ -25,5 +29,4 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
